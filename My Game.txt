@@ -1,7 +1,4 @@
 Hello
 Hey
-<<<<<<< HEAD
 My Name
-=======
->>>>>>> a3fd36c708792c7f8a2ef67bc5d84900cfc71fca
 Hello
